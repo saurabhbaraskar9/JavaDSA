@@ -4,7 +4,7 @@ public class checkIfSortedRotated_1752 {
     public static void main(String[] args) {
         int[] nums = {3, 4, 5, 1, 2};
 
-        System.out.println(check(nums));;
+        System.out.println(check(nums));
 
     }
 
